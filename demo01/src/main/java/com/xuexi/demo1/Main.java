@@ -6,5 +6,6 @@ public class Main {
         String bb="222222";
         System.out.println("Hello world!");
         System.out.println("Hello world!");
+        System.out.println("master test");
     }
 }
